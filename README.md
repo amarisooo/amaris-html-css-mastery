@@ -2,4 +2,4 @@
 
 By [AMARIS OVALLE], Intro to Coding for Journalists
 
-This repo is a class assignment is due [September] [8], [2023]
+This repo is a class assignment due [September] [8], [2023]
