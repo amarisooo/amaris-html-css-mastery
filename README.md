@@ -1,5 +1,5 @@
-[AMARIS OVALLE]'s HTML: Mastery
+AMARIS OVALLE's HTML: Mastery
 
-By [AMARIS OVALLE], Intro to Coding for Journalists
+By AMARIS OVALLE, Intro to Coding for Journalists
 
-This repo is a class assignment due [September] [8], [2023]
+This repo is a class assignment due September 8, 2023
